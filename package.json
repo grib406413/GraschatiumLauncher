@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "graschatiumlauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Graschatium Launcher",
+  "description": "Modded Server Minecraft Launcher",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et gribouille406413",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
